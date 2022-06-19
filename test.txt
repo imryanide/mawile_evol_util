@@ -1,0 +1,8 @@
+#include "constants/region_map_sections.h"
+
+const struct Evolution gEvolutionTable[NUM_SPECIES][EVOS_PER_MON] =
+{
+    [SPECIES_BULBASAUR]	 = {{EVO_LEVEL, 16, SPECIES_IVYSAUR}},
+    [SPECIES_IVYSAUR]	 = {{EVO_LEVEL, 32, SPECIES_VENUSAUR}},
+    [SPECIES_VENUSAUR]	 = {{EVO_MEGA_EVOLUTION, ITEM_VENUSAURITE, SPECIES_MEGA_VENUSAUR}},
+ 
