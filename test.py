@@ -1,6 +1,6 @@
 import re
 
-f = open("test.txt")
+f = open("test2.txt")
 
 print("file opened")
 
@@ -18,4 +18,5 @@ for line in f:
             lvl = "Final Evolution"
         # Pokemon Next Evolution
         next = re.findall(r"\, SPECIES.*\}\,$", evo.string)[0][10:-3]
-        print(f"{mon} -> {next} @ {lvl}")
+
+        print(f"{mon.capitalize()} -> {next.capitalize()} @ {lvl}")
