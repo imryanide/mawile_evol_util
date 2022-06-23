@@ -37,7 +37,7 @@ for line in f:
                 # for j in evo_items:
                 #     nextitem = i.split("_")[1:]
                 #     evoitem = " ".join(map(str, nextitem))
-                evo_items = re.findall(r"ITEM_\w*", evo.string)
+                evo_items = re.findall(r" ITEM_\w*", evo.string)
 
                 if evo_items:
                     for i, j in zip(next, evo_items):
@@ -45,7 +45,7 @@ for line in f:
                         allevs = " ".join(map(str, nextev))
                         nextitem = j.split("_")[1:]
                         evoitem = " ".join(map(str, nextitem))
-                        nexts = nexts + allevs + " via " + evoitem
+                        nexts = nexts + allevs + " via " + evoitem + " "
                 else:
                     for i in next:
                         nextev = i.split("_")[1:]
