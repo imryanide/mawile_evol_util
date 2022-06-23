@@ -1,0 +1,426 @@
+Bulbasaur -> IVYSAUR  @ 16
+Ivysaur -> VENUSAUR  @ 32
+Venusaur ->  MEGA VENUSAUR  
+Charmander -> CHARMELEON  @ 16
+Charmeleon -> CHARIZARD  @ 36
+Charizard ->  MEGA CHARIZARD X MEGA CHARIZARD Y  
+Squirtle -> WARTORTLE  @ 16
+Wartortle -> BLASTOISE  @ 36
+Blastoise ->  MEGA BLASTOISE  
+Caterpie -> METAPOD  @ 7
+Metapod -> BUTTERFREE  @ 10
+Weedle -> KAKUNA  @ 7
+Kakuna -> BEEDRILL  @ 10
+Beedrill ->  MEGA BEEDRILL  
+Pidgey -> PIDGEOTTO  @ 18
+Pidgeotto -> PIDGEOT  @ 36
+Pidgeot ->  MEGA PIDGEOT  
+Rattata -> RATICATE  @ 20
+Spearow -> FEAROW  @ 20
+Ekans -> ARBOK  @ 22
+Pikachu -> RAICHU  @ Final Evolution
+Sandshrew -> SANDSLASH ALOLAN SANDSLASH  @ 22
+Nidoran_f -> NIDORINA  @ 16
+Nidorina -> NIDOQUEEN  @ Final Evolution
+Nidoran_m -> NIDORINO  @ 16
+Nidorino -> NIDOKING  @ Final Evolution
+Clefairy -> CLEFABLE  @ Final Evolution
+Vulpix -> NINETALES ALOLAN NINETALES  @ Final Evolution
+Jigglypuff -> WIGGLYTUFF  @ Final Evolution
+Zubat -> GOLBAT  @ 22
+Golbat -> CROBAT  @ 0
+Oddish -> GLOOM  @ 21
+Gloom -> VILEPLUME BELLOSSOM  @ Final Evolution
+Paras -> PARASECT  @ 24
+Venonat -> VENOMOTH  @ 31
+Diglett -> DUGTRIO  @ 26
+Meowth -> PERSIAN  @ 28
+Psyduck -> GOLDUCK  @ 33
+Mankey -> PRIMEAPE  @ 28
+Growlithe -> ARCANINE  @ Final Evolution
+Poliwag -> POLIWHIRL  @ 25
+Poliwhirl -> POLIWRATH POLITOED  @ 0
+Abra -> KADABRA  @ 16
+Kadabra -> ALAKAZAM  @ 40
+Alakazam ->  MEGA ALAKAZAM  
+Machop -> MACHOKE  @ 28
+Machoke -> MACHAMP  @ 39
+Bellsprout -> WEEPINBELL  @ 21
+Weepinbell -> VICTREEBEL  @ Final Evolution
+Tentacool -> TENTACRUEL  @ 30
+Geodude -> GRAVELER  @ 20
+Graveler -> GOLEM  @ 34
+Ponyta -> RAPIDASH  @ 40
+Slowpoke -> SLOWBRO SLOWKING  @ 37
+Slowbro ->  MEGA SLOWBRO  
+Magnemite -> MAGNETON  @ 30
+Magneton -> MAGNEZONE  @ Final Evolution
+Doduo -> DODRIO  @ 31
+Seel -> DEWGONG  @ 34
+Grimer -> MUK  @ 38
+Shellder -> CLOYSTER  @ Final Evolution
+Gastly -> HAUNTER  @ 25
+Haunter -> GENGAR  @ 40
+Gengar ->  MEGA GENGAR  
+Onix -> STEELIX  @ Final Evolution
+Drowzee -> HYPNO  @ 26
+Krabby -> KINGLER  @ 28
+Voltorb -> ELECTRODE  @ 30
+Exeggcute -> EXEGGUTOR  @ Final Evolution
+Cubone -> MAROWAK  @ 28
+Lickitung -> LICKILICKY  @ Final Evolution
+Koffing -> WEEZING  @ 35
+Rhyhorn -> RHYDON  @ 21
+Rhydon -> RHYPERIOR  @ Final Evolution
+Chansey -> BLISSEY  @ 0
+Tangela -> TANGROWTH  @ Final Evolution
+Kangaskhan ->  MEGA KANGASKHAN  
+Horsea -> SEADRA  @ 26
+Seadra -> KINGDRA  @ Final Evolution
+Goldeen -> SEAKING  @ 33
+Staryu -> STARMIE  @ Final Evolution
+Scyther -> SCIZOR  @ Final Evolution
+Electabuzz -> ELECTIVIRE  @ Final Evolution
+Magmar -> MAGMORTAR  @ Final Evolution
+Pinsir ->  MEGA PINSIR  
+Magikarp -> GYARADOS  @ 20
+Gyarados ->  MEGA GYARADOS  
+Eevee -> JOLTEON VAPOREON FLAREON UMBREON ESPEON LEAFEON GLACEON SYLVEON  @ 0
+Porygon -> PORYGON  @ 30
+Omanyte -> OMASTAR  @ 40
+Kabuto -> KABUTOPS  @ 40
+Aerodactyl ->  MEGA AERODACTYL  
+Dratini -> DRAGONAIR  @ 30
+Dragonair -> DRAGONITE  @ 55
+Mewtwo ->  MEGA MEWTWO X  
+Chikorita -> BAYLEEF  @ 16
+Bayleef -> MEGANIUM  @ 32
+Cyndaquil -> QUILAVA  @ 14
+Quilava -> TYPHLOSION  @ 36
+Totodile -> CROCONAW  @ 18
+Croconaw -> FERALIGATR  @ 30
+Sentret -> FURRET  @ 15
+Hoothoot -> NOCTOWL  @ 20
+Ledyba -> LEDIAN  @ 18
+Spinarak -> ARIADOS  @ 22
+Chinchou -> LANTURN  @ 27
+Pichu -> PIKACHU  @ 0
+Cleffa -> CLEFAIRY  @ 0
+Igglybuff -> JIGGLYPUFF  @ 0
+Togepi -> TOGETIC  @ 0
+Togetic -> TOGEKISS  @ Final Evolution
+Natu -> XATU  @ 25
+Mareep -> FLAAFFY  @ 15
+Flaaffy -> AMPHAROS  @ 30
+Ampharos ->  MEGA AMPHAROS  
+Marill -> AZUMARILL  @ 18
+Hoppip -> SKIPLOOM  @ 18
+Skiploom -> JUMPLUFF  @ 27
+Aipom -> AMBIPOM  @ Final Evolution
+Sunkern -> SUNFLORA  @ Final Evolution
+Yanma -> YANMEGA  @ Final Evolution
+Wooper -> QUAGSIRE  @ 20
+Murkrow -> HONCHKROW  @ Final Evolution
+Misdreavus -> MISMAGIUS  @ Final Evolution
+Pineco -> FORRETRESS  @ 31
+Gligar -> GLISCOR  @ Final Evolution
+Steelix ->  MEGA STEELIX  
+Snubbull -> GRANBULL  @ 23
+Scizor ->  MEGA SCIZOR  
+Heracross ->  MEGA HERACROSS  
+Sneasel -> WEAVILE  @ Final Evolution
+Teddiursa -> URSARING  @ 30
+Slugma -> MAGCARGO  @ 38
+Swinub -> PILOSWINE  @ 33
+Piloswine -> MAMOSWINE  @ Final Evolution
+Remoraid -> OCTILLERY  @ 25
+Houndour -> HOUNDOOM  @ 20
+Houndoom ->  MEGA HOUNDOOM  
+Phanpy -> DONPHAN  @ 25
+Porygon2 -> PORYGON Z  @ 2
+Tyrogue -> HITMONCHAN HITMONLEE HITMONTOP  @ 20
+Smoochum -> JYNX  @ 30
+Elekid -> ELECTABUZZ  @ 30
+Magby -> MAGMAR  @ 30
+Larvitar -> PUPITAR  @ 30
+Pupitar -> TYRANITAR  @ 55
+Tyranitar ->  MEGA TYRANITAR  
+Treecko -> GROVYLE  @ 16
+Grovyle -> SCEPTILE  @ 36
+Sceptile ->  MEGA SCEPTILE  
+Torchic -> COMBUSKEN  @ 16
+Combusken -> BLAZIKEN  @ 36
+Blaziken ->  MEGA BLAZIKEN  
+Mudkip -> MARSHTOMP  @ 16
+Marshtomp -> SWAMPERT  @ 36
+Swampert ->  MEGA SWAMPERT  
+Poochyena -> MIGHTYENA  @ 18
+Zigzagoon -> LINOONE  @ 20
+Wurmple -> SILCOON CASCOON  @ 7
+Silcoon -> BEAUTIFLY  @ 10
+Cascoon -> DUSTOX  @ 10
+Lotad -> LOMBRE  @ 14
+Lombre -> LUDICOLO  @ Final Evolution
+Seedot -> NUZLEAF  @ 14
+Nuzleaf -> SHIFTRY  @ Final Evolution
+Nincada -> NINJASK SHEDINJA  @ 20
+Taillow -> SWELLOW  @ 22
+Shroomish -> BRELOOM  @ 23
+Wingull -> PELIPPER  @ 25
+Surskit -> MASQUERAIN  @ 22
+Wailmer -> WAILORD  @ 40
+Skitty -> DELCATTY  @ 25
+Baltoy -> CLAYDOL  @ 36
+Nosepass -> PROBOPASS  @ Final Evolution
+Sableye ->  MEGA SABLEYE  
+Barboach -> WHISCASH  @ 30
+Corphish -> CRAWDAUNT  @ 30
+Feebas -> MILOTIC  @ 0
+Carvanha -> SHARPEDO  @ 30
+Sharpedo ->  MEGA SHARPEDO  
+Trapinch -> VIBRAVA  @ 35
+Vibrava -> FLYGON  @ 45
+Makuhita -> HARIYAMA  @ 24
+Electrike -> MANECTRIC  @ 26
+Manectric ->  MEGA MANECTRIC  
+Numel -> CAMERUPT  @ 33
+Camerupt ->  MEGA CAMERUPT  
+Spheal -> SEALEO  @ 32
+Sealeo -> WALREIN  @ 44
+Cacnea -> CACTURNE  @ 32
+Snorunt -> GLALIE FROSLASS  @ 42
+Glalie ->  MEGA GLALIE  
+Azurill -> MARILL  @ 0
+Spoink -> GRUMPIG  @ 32
+Mawile ->  MEGA MAWILE  
+Meditite -> MEDICHAM  @ 37
+Medicham ->  MEGA MEDICHAM  
+Swablu -> ALTARIA  @ 35
+Altaria ->  MEGA ALTARIA  
+Wynaut -> WOBBUFFET  @ 15
+Duskull -> DUSCLOPS  @ 18
+Dusclops -> DUSKNOIR  @ 36
+Roselia -> ROSERADE  @ Final Evolution
+Slakoth -> VIGOROTH  @ 18
+Vigoroth -> SLAKING  @ 36
+Gulpin -> SWALOT  @ 26
+Whismur -> LOUDRED  @ 20
+Loudred -> EXPLOUD  @ 40
+Clamperl -> HUNTAIL  @ 0
+Absol ->  MEGA ABSOL  
+Shuppet -> BANETTE  @ 37
+Banette ->  MEGA BANETTE  
+Aron -> LAIRON  @ 20
+Lairon -> AGGRON  @ 40
+Aggron ->  MEGA AGGRON  
+Lileep -> CRADILY  @ 40
+Anorith -> ARMALDO  @ 40
+Ralts -> KIRLIA  @ 20
+Kirlia -> GARDEVOIR  @ 30
+Gardevoir ->  MEGA GARDEVOIR  
+Bagon -> SHELGON  @ 30
+Shelgon -> SALAMENCE  @ 50
+Salamence ->  MEGA SALAMENCE  
+Beldum -> METANG  @ 20
+Metang -> METAGROSS  @ 45
+Metagross ->  MEGA METAGROSS  
+Latias ->  MEGA LATIAS  
+Latios ->  MEGA LATIOS  
+Rayquaza ->  MEGA RAYQUAZA  
+Groudon -> PRIMAL GROUDON  @ Final Evolution
+Kyogre -> PRIMAL KYOGRE  @ Final Evolution
+Turtwig -> GROTLE  @ 18
+Grotle -> TORTERRA  @ 32
+Chimchar -> MONFERNO  @ 14
+Monferno -> INFERNAPE  @ 36
+Piplup -> PRINPLUP  @ 16
+Prinplup -> EMPOLEON  @ 36
+Starly -> STARAVIA  @ 14
+Staravia -> STARAPTOR  @ 34
+Bidoof -> BIBAREL  @ 15
+Kricketot -> KRICKETUNE  @ 10
+Shinx -> LUXIO  @ 15
+Luxio -> LUXRAY  @ 30
+Budew -> ROSELIA  @ 0
+Cranidos -> RAMPARDOS  @ 30
+Shieldon -> BASTIODON  @ 30
+Burmy -> WORMADAM  @ 20
+Burmy_sandy -> WORMADAM SANDY  @ 20
+Burmy_trash -> WORMADAM TRASH  @ 20
+Combee -> VESPIQUEN  @ 21
+Buizel -> FLOATZEL  @ 26
+Cherubi -> CHERRIM  @ 25
+Shellos -> GASTRODON  @ 30
+Drifloon -> DRIFBLIM  @ 28
+Buneary -> LOPUNNY  @ 0
+Lopunny ->  MEGA LOPUNNY  
+Glameow -> PURUGLY  @ 38
+Stunky -> SKUNTANK  @ 34
+Bronzor -> BRONZONG  @ 35
+Bonsly -> SUDOWOODO  @ Final Evolution
+Mimejr -> MR MIME  @ Final Evolution
+Happiny -> CHANSEY  @ 0
+Gible -> GABITE  @ 24
+Gabite -> GARCHOMP  @ 48
+Garchomp ->  MEGA GARCHOMP  
+Munchlax -> SNORLAX  @ 0
+Riolu -> LUCARIO  @ 0
+Lucario ->  MEGA LUCARIO  
+Hippopotas -> HIPPOWDON  @ 34
+Skorupi -> DRAPION  @ 40
+Croagunk -> TOXICROAK  @ 25
+Finneon -> LUMINEON  @ 31
+Mantyke -> REMORAID MANTINE  @ Final Evolution
+Snover -> ABOMASNOW  @ 40
+Abomasnow ->  MEGA ABOMASNOW  
+Gallade ->  MEGA GALLADE  
+Snivy -> SERVINE  @ 17
+Servine -> SERPERIOR  @ 36
+Tepig -> PIGNITE  @ 17
+Pignite -> EMBOAR  @ 36
+Oshawott -> DEWOTT  @ 17
+Dewott -> SAMUROTT  @ 36
+Patrat -> WATCHOG  @ 20
+Lillipup -> HERDIER  @ 16
+Herdier -> STOUTLAND  @ 32
+Purrloin -> LIEPARD  @ 20
+Pansage -> SIMISAGE  @ Final Evolution
+Pansear -> SIMISEAR  @ Final Evolution
+Panpour -> SIMIPOUR  @ Final Evolution
+Munna -> MUSHARNA  @ Final Evolution
+Pidove -> TRANQUILL  @ 21
+Tranquill -> UNFEZANT  @ 32
+Blitzle -> ZEBSTRIKA  @ 27
+Roggenrola -> BOLDORE  @ 25
+Boldore -> GIGALITH  @ 39
+Woobat -> SWOOBAT  @ 0
+Drilbur -> EXCADRILL  @ 31
+Audino ->  MEGA AUDINO  
+Timburr -> GURDURR  @ 25
+Gurdurr -> CONKELDURR  @ 40
+Tympole -> PALPITOAD  @ 25
+Palpitoad -> SEISMITOAD  @ 36
+Sewaddle -> SWADLOON  @ 20
+Swadloon -> LEAVANNY  @ 0
+Venipede -> WHIRLIPEDE  @ 22
+Whirlipede -> SCOLIPEDE  @ 30
+Cottonee -> WHIMSICOTT  @ Final Evolution
+Petilil -> LILLIGANT  @ Final Evolution
+Sandile -> KROKOROK  @ 18
+Krokorok -> KROOKODILE  @ 38
+Darumaka -> DARMANITAN  @ 35
+Darmanitan_zen -> DARMANITAN  @ Final Evolution
+Dwebble -> CRUSTLE  @ 34
+Scraggy -> SCRAFTY  @ 39
+Yamask -> COFAGRIGUS  @ 34
+Tirtouga -> CARRACOSTA  @ 37
+Archen -> ARCHEOPS  @ 37
+Trubbish -> GARBODOR  @ 36
+Zorua -> ZOROARK  @ 30
+Minccino -> CINCCINO  @ Final Evolution
+Gothita -> GOTHORITA  @ 32
+Gothorita -> GOTHITELLE  @ 41
+Solosis -> DUOSION  @ 32
+Duosion -> REUNICLUS  @ 41
+Ducklett -> SWANNA  @ 35
+Vanillite -> VANILLISH  @ 35
+Vanillish -> VANILLUXE  @ 47
+Deerling -> SAWSBUCK  @ 34
+Karrablast -> SHELMET ESCAVALIER  @ Final Evolution
+Foongus -> AMOONGUSS  @ 39
+Frillish -> JELLICENT  @ 40
+Joltik -> GALVANTULA  @ 36
+Ferroseed -> FERROTHORN  @ 40
+Klink -> KLANG  @ 38
+Klang -> KLINKLANG  @ 49
+Tynamo -> EELEKTRIK  @ 14
+Eelektrik -> EELEKTROSS  @ 35
+Elgyem -> BEHEEYEM  @ 42
+Litwick -> LAMPENT  @ 41
+Lampent -> CHANDELURE  @ Final Evolution
+Axew -> FRAXURE  @ 22
+Fraxure -> HAXORUS  @ 45
+Cubchoo -> BEARTIC  @ 22
+Shelmet -> KARRABLAST ACCELGOR  @ Final Evolution
+Mienfoo -> MIENSHAO  @ 50
+Golett -> GOLURK  @ 43
+Pawniard -> BISHARP  @ 32
+Rufflet -> BRAVIARY  @ 54
+Vullaby -> MANDIBUZZ  @ 54
+Deino -> ZWEILOUS  @ 26
+Zweilous -> HYDREIGON  @ 40
+Larvesta -> VOLCARONA  @ 59
+Chespin -> QUILLADIN  @ 16
+Quilladin -> CHESNAUGHT  @ 36
+Fennekin -> BRAIXEN  @ 16
+Braixen -> DELPHOX  @ 36
+Froakie -> FROGADIER  @ 16
+Frogadier -> GRENINJA  @ 36
+Bunnelby -> DIGGERSBY  @ 20
+Fletchling -> FLETCHINDER  @ 17
+Fletchinder -> TALONFLAME  @ 35
+Scatterbug -> SPEWPA  @ 9
+Spewpa -> VIVILLON  @ 12
+Litleo -> PYROAR  @ 35
+Flabebe -> FLOETTE  @ 19
+Floette -> FLORGES  @ Final Evolution
+Skiddo -> GOGOAT  @ 32
+Pancham -> PANGORO  @ 32
+Espurr -> MEOWSTIC  @ 25
+Honedge -> DOUBLADE  @ 19
+Doublade -> AEGISLASH  @ Final Evolution
+Spritzee -> AROMATISSE  @ 0
+Swirlix -> SLURPUFF  @ 0
+Inkay -> MALAMAR  @ 30
+Binacle -> BARBARACLE  @ 39
+Skrelp -> DRAGALGE  @ 48
+Clauncher -> CLAWITZER  @ 37
+Helioptile -> HELIOLISK  @ Final Evolution
+Tyrunt -> TYRANTRUM  @ 39
+Amaura -> AURORUS  @ 39
+Goomy -> SLIGGOO  @ 40
+Sliggoo -> GOODRA  @ 50
+Phantump -> TREVENANT  @ 34
+Pumpkaboo -> GOURGEIST  @ 28
+Bergmite -> AVALUGG  @ 37
+Noibat -> NOIVERN  @ 48
+Diancie ->  MEGA DIANCIE  
+Rowlet -> DARTRIX  @ 17
+Dartrix -> DECIDUEYE  @ 34
+Litten -> TORRACAT  @ 17
+Torracat -> INCINEROAR  @ 34
+Popplio -> BRIONNE  @ 17
+Brionne -> PRIMARINA  @ 34
+Pikipek -> TRUMBEAK  @ 14
+Trumbeak -> TOUCANNON  @ 28
+Yungoos -> GUMSHOOS  @ 20
+Grubbin -> CHARJABUG  @ 20
+Charjabug -> VIKAVOLT  @ Final Evolution
+Crabrawler -> CRABOMINABLE  @ Final Evolution
+Cutiefly -> RIBOMBEE  @ 25
+Rockruff -> LYCANROC  @ 25
+Mareanie -> TOXAPEX  @ 38
+Mudbray -> MUDSDALE  @ 30
+Dewpider -> ARAQUANID  @ 22
+Fomantis -> LURANTIS  @ 34
+Morelull -> SHIINOTIC  @ 24
+Salandit -> SALAZZLE  @ 33
+Stufful -> BEWEAR  @ 27
+Bounsweet -> STEENEE  @ 18
+Steenee -> TSAREENA  @ Final Evolution
+Wimpod -> GOLISOPOD  @ 30
+Sandygast -> PALOSSAND  @ 42
+Type_null -> SILVALLY  @ 0
+Jangmo_o -> HAKAMO O  @ 35
+Hakamo_o -> KOMMO O  @ 45
+Cosmog -> COSMOEM  @ 43
+Cosmoem -> SOLGALEO  @ 53
+Poipole -> NAGANADEL  @ Final Evolution
+Alolan_rattata -> ALOLAN RATICATE  @ 20
+Alolan_sandshrew -> ALOLAN SANDSLASH  @ Final Evolution
+Alolan_vulpix -> ALOLAN NINETALES  @ Final Evolution
+Alolan_diglett -> ALOLAN DUGTRIO  @ 26
+Alolan_meowth -> ALOLAN PERSIAN  @ 28
+Alolan_geodude -> ALOLAN GRAVELER  @ 25
+Alolan_graveler -> ALOLAN GOLEM  @ 0
+Alolan_grimer -> ALOLAN MUK  @ 38
