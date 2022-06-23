@@ -24,8 +24,9 @@ for line in f:
                 megaevo = i.split("_")[1:]
                 mgs = " ".join(map(str, megaevo))
                 s = s + mgs + " "
-            print(f"{s} via Stone")
-            f2.write(f"{s} via Stone \n")
+            item = re.findall(r"ITEM_\w*", evo.string)
+            print(f"{s} via {item[0][4:]} \n" if item else f"{s} \n")
+            f2.write(f"{s} via {item[0][5:].capitalize()} \n" if item else f"{s} \n")
         else:
             next = re.findall(r"\, SPECIES_.[A-z]*", evo.string)
             if next:
@@ -33,8 +34,26 @@ for line in f:
                 for i in next:
                     nextev = i.split("_")[1:]
                     allevs = " ".join(map(str, nextev))
-                    nexts = nexts + allevs + " "
+                # for j in evo_items:
+                #     nextitem = i.split("_")[1:]
+                #     evoitem = " ".join(map(str, nextitem))
+                evo_items = re.findall(r"ITEM_\w*", evo.string)
+
+                if evo_items:
+                    for i, j in zip(next, evo_items):
+                        nextev = i.split("_")[1:]
+                        allevs = " ".join(map(str, nextev))
+                        nextitem = j.split("_")[1:]
+                        evoitem = " ".join(map(str, nextitem))
+                        nexts = nexts + allevs + " via " + evoitem
+                else:
+                    for i in next:
+                        nextev = i.split("_")[1:]
+                        allevs = " ".join(map(str, nextev))
+                        nexts = nexts + allevs + " "
+
                 print(f"{nexts} @ {lvl}\n")
                 f2.write(f"{nexts} @ {lvl}\n")
+
             # print(f"{mon.capitalize()} -> {next} @ {lvl}")
             # f2.write(f"{mon.capitalize()} -> {next} @ {lvl} \n")

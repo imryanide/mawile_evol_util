@@ -1,98 +1,98 @@
 Bulbasaur -> IVYSAUR  @ 16
 Ivysaur -> VENUSAUR  @ 32
-Venusaur ->  MEGA VENUSAUR  
+Venusaur ->  MEGA VENUSAUR  via Venusaurite 
 Charmander -> CHARMELEON  @ 16
 Charmeleon -> CHARIZARD  @ 36
-Charizard ->  MEGA CHARIZARD X MEGA CHARIZARD Y  
+Charizard ->  MEGA CHARIZARD X MEGA CHARIZARD Y  via Charizardite_x 
 Squirtle -> WARTORTLE  @ 16
 Wartortle -> BLASTOISE  @ 36
-Blastoise ->  MEGA BLASTOISE  
+Blastoise ->  MEGA BLASTOISE  via Blastoisinite 
 Caterpie -> METAPOD  @ 7
 Metapod -> BUTTERFREE  @ 10
 Weedle -> KAKUNA  @ 7
 Kakuna -> BEEDRILL  @ 10
-Beedrill ->  MEGA BEEDRILL  
+Beedrill ->  MEGA BEEDRILL  via Beedrillite 
 Pidgey -> PIDGEOTTO  @ 18
 Pidgeotto -> PIDGEOT  @ 36
-Pidgeot ->  MEGA PIDGEOT  
+Pidgeot ->  MEGA PIDGEOT  via Pidgeotite 
 Rattata -> RATICATE  @ 20
 Spearow -> FEAROW  @ 20
 Ekans -> ARBOK  @ 22
-Pikachu -> RAICHU  @ Final Evolution
-Sandshrew -> SANDSLASH ALOLAN SANDSLASH  @ 22
+Pikachu -> RAICHU via THUNDER STONE @ Final Evolution
+Sandshrew -> SANDSLASH via ICE STONE @ 22
 Nidoran_f -> NIDORINA  @ 16
-Nidorina -> NIDOQUEEN  @ Final Evolution
+Nidorina -> NIDOQUEEN via MOON STONE @ Final Evolution
 Nidoran_m -> NIDORINO  @ 16
-Nidorino -> NIDOKING  @ Final Evolution
-Clefairy -> CLEFABLE  @ Final Evolution
-Vulpix -> NINETALES ALOLAN NINETALES  @ Final Evolution
-Jigglypuff -> WIGGLYTUFF  @ Final Evolution
+Nidorino -> NIDOKING via MOON STONE @ Final Evolution
+Clefairy -> CLEFABLE via MOON STONE @ Final Evolution
+Vulpix -> NINETALES via FIRE STONEALOLAN NINETALES via ICE STONE @ Final Evolution
+Jigglypuff -> WIGGLYTUFF via MOON STONE @ Final Evolution
 Zubat -> GOLBAT  @ 22
 Golbat -> CROBAT  @ 0
 Oddish -> GLOOM  @ 21
-Gloom -> VILEPLUME BELLOSSOM  @ Final Evolution
+Gloom -> VILEPLUME via LEAF STONEBELLOSSOM via SUN STONE @ Final Evolution
 Paras -> PARASECT  @ 24
 Venonat -> VENOMOTH  @ 31
 Diglett -> DUGTRIO  @ 26
 Meowth -> PERSIAN  @ 28
 Psyduck -> GOLDUCK  @ 33
 Mankey -> PRIMEAPE  @ 28
-Growlithe -> ARCANINE  @ Final Evolution
+Growlithe -> ARCANINE via FIRE STONE @ Final Evolution
 Poliwag -> POLIWHIRL  @ 25
-Poliwhirl -> POLIWRATH POLITOED  @ 0
+Poliwhirl -> POLIWRATH via WATER STONE @ 0
 Abra -> KADABRA  @ 16
 Kadabra -> ALAKAZAM  @ 40
-Alakazam ->  MEGA ALAKAZAM  
+Alakazam ->  MEGA ALAKAZAM  via Alakazite 
 Machop -> MACHOKE  @ 28
 Machoke -> MACHAMP  @ 39
 Bellsprout -> WEEPINBELL  @ 21
-Weepinbell -> VICTREEBEL  @ Final Evolution
+Weepinbell -> VICTREEBEL via LEAF STONE @ Final Evolution
 Tentacool -> TENTACRUEL  @ 30
 Geodude -> GRAVELER  @ 20
 Graveler -> GOLEM  @ 34
 Ponyta -> RAPIDASH  @ 40
-Slowpoke -> SLOWBRO SLOWKING  @ 37
-Slowbro ->  MEGA SLOWBRO  
+Slowpoke -> SLOWBRO via HOLD NIGHTSLOWKING via KINGS ROCK @ 37
+Slowbro ->  MEGA SLOWBRO  via Slowbronite 
 Magnemite -> MAGNETON  @ 30
 Magneton -> MAGNEZONE  @ Final Evolution
 Doduo -> DODRIO  @ 31
 Seel -> DEWGONG  @ 34
 Grimer -> MUK  @ 38
-Shellder -> CLOYSTER  @ Final Evolution
+Shellder -> CLOYSTER via WATER STONE @ Final Evolution
 Gastly -> HAUNTER  @ 25
 Haunter -> GENGAR  @ 40
-Gengar ->  MEGA GENGAR  
-Onix -> STEELIX  @ Final Evolution
+Gengar ->  MEGA GENGAR  via Gengarite 
+Onix -> STEELIX via HOLD DAY @ Final Evolution
 Drowzee -> HYPNO  @ 26
 Krabby -> KINGLER  @ 28
 Voltorb -> ELECTRODE  @ 30
-Exeggcute -> EXEGGUTOR  @ Final Evolution
+Exeggcute -> EXEGGUTOR via LEAF STONE @ Final Evolution
 Cubone -> MAROWAK  @ 28
 Lickitung -> LICKILICKY  @ Final Evolution
 Koffing -> WEEZING  @ 35
 Rhyhorn -> RHYDON  @ 21
-Rhydon -> RHYPERIOR  @ Final Evolution
+Rhydon -> RHYPERIOR via HOLD DAY @ Final Evolution
 Chansey -> BLISSEY  @ 0
 Tangela -> TANGROWTH  @ Final Evolution
-Kangaskhan ->  MEGA KANGASKHAN  
+Kangaskhan ->  MEGA KANGASKHAN  via Kangaskhanite 
 Horsea -> SEADRA  @ 26
-Seadra -> KINGDRA  @ Final Evolution
+Seadra -> KINGDRA via HOLD DAY @ Final Evolution
 Goldeen -> SEAKING  @ 33
-Staryu -> STARMIE  @ Final Evolution
-Scyther -> SCIZOR  @ Final Evolution
-Electabuzz -> ELECTIVIRE  @ Final Evolution
-Magmar -> MAGMORTAR  @ Final Evolution
-Pinsir ->  MEGA PINSIR  
+Staryu -> STARMIE via WATER STONE @ Final Evolution
+Scyther -> SCIZOR via HOLD DAY @ Final Evolution
+Electabuzz -> ELECTIVIRE via HOLD DAY @ Final Evolution
+Magmar -> MAGMORTAR via HOLD DAY @ Final Evolution
+Pinsir ->  MEGA PINSIR  via Pinsirite 
 Magikarp -> GYARADOS  @ 20
-Gyarados ->  MEGA GYARADOS  
-Eevee -> JOLTEON VAPOREON FLAREON UMBREON ESPEON LEAFEON GLACEON SYLVEON  @ 0
+Gyarados ->  MEGA GYARADOS  via Gyaradosite 
+Eevee -> JOLTEON via THUNDER STONEVAPOREON via WATER STONEFLAREON via FIRE STONE @ 0
 Porygon -> PORYGON  @ 30
 Omanyte -> OMASTAR  @ 40
 Kabuto -> KABUTOPS  @ 40
-Aerodactyl ->  MEGA AERODACTYL  
+Aerodactyl ->  MEGA AERODACTYL  via Aerodactylite 
 Dratini -> DRAGONAIR  @ 30
 Dragonair -> DRAGONITE  @ 55
-Mewtwo ->  MEGA MEWTWO X  
+Mewtwo ->  MEGA MEWTWO X  via Mewtwonite_x 
 Chikorita -> BAYLEEF  @ 16
 Bayleef -> MEGANIUM  @ 32
 Cyndaquil -> QUILAVA  @ 14
@@ -108,61 +108,61 @@ Pichu -> PIKACHU  @ 0
 Cleffa -> CLEFAIRY  @ 0
 Igglybuff -> JIGGLYPUFF  @ 0
 Togepi -> TOGETIC  @ 0
-Togetic -> TOGEKISS  @ Final Evolution
+Togetic -> TOGEKISS via SHINY STONE @ Final Evolution
 Natu -> XATU  @ 25
 Mareep -> FLAAFFY  @ 15
 Flaaffy -> AMPHAROS  @ 30
-Ampharos ->  MEGA AMPHAROS  
+Ampharos ->  MEGA AMPHAROS  via Ampharosite 
 Marill -> AZUMARILL  @ 18
 Hoppip -> SKIPLOOM  @ 18
 Skiploom -> JUMPLUFF  @ 27
 Aipom -> AMBIPOM  @ Final Evolution
-Sunkern -> SUNFLORA  @ Final Evolution
+Sunkern -> SUNFLORA via SUN STONE @ Final Evolution
 Yanma -> YANMEGA  @ Final Evolution
 Wooper -> QUAGSIRE  @ 20
-Murkrow -> HONCHKROW  @ Final Evolution
-Misdreavus -> MISMAGIUS  @ Final Evolution
+Murkrow -> HONCHKROW via DUSK STONE @ Final Evolution
+Misdreavus -> MISMAGIUS via DUSK STONE @ Final Evolution
 Pineco -> FORRETRESS  @ 31
-Gligar -> GLISCOR  @ Final Evolution
-Steelix ->  MEGA STEELIX  
+Gligar -> GLISCOR via HOLD NIGHT @ Final Evolution
+Steelix ->  MEGA STEELIX  via Steelixite 
 Snubbull -> GRANBULL  @ 23
-Scizor ->  MEGA SCIZOR  
-Heracross ->  MEGA HERACROSS  
-Sneasel -> WEAVILE  @ Final Evolution
+Scizor ->  MEGA SCIZOR  via Scizorite 
+Heracross ->  MEGA HERACROSS  via Heracronite 
+Sneasel -> WEAVILE via HOLD NIGHT @ Final Evolution
 Teddiursa -> URSARING  @ 30
 Slugma -> MAGCARGO  @ 38
 Swinub -> PILOSWINE  @ 33
 Piloswine -> MAMOSWINE  @ Final Evolution
 Remoraid -> OCTILLERY  @ 25
 Houndour -> HOUNDOOM  @ 20
-Houndoom ->  MEGA HOUNDOOM  
+Houndoom ->  MEGA HOUNDOOM  via Houndoominite 
 Phanpy -> DONPHAN  @ 25
-Porygon2 -> PORYGON Z  @ 2
+Porygon2 -> PORYGON Z via HOLD NIGHT @ 2
 Tyrogue -> HITMONCHAN HITMONLEE HITMONTOP  @ 20
 Smoochum -> JYNX  @ 30
 Elekid -> ELECTABUZZ  @ 30
 Magby -> MAGMAR  @ 30
 Larvitar -> PUPITAR  @ 30
 Pupitar -> TYRANITAR  @ 55
-Tyranitar ->  MEGA TYRANITAR  
+Tyranitar ->  MEGA TYRANITAR  via Tyranitarite 
 Treecko -> GROVYLE  @ 16
 Grovyle -> SCEPTILE  @ 36
-Sceptile ->  MEGA SCEPTILE  
+Sceptile ->  MEGA SCEPTILE  via Sceptilite 
 Torchic -> COMBUSKEN  @ 16
 Combusken -> BLAZIKEN  @ 36
-Blaziken ->  MEGA BLAZIKEN  
+Blaziken ->  MEGA BLAZIKEN  via Blazikenite 
 Mudkip -> MARSHTOMP  @ 16
 Marshtomp -> SWAMPERT  @ 36
-Swampert ->  MEGA SWAMPERT  
+Swampert ->  MEGA SWAMPERT  via Swampertite 
 Poochyena -> MIGHTYENA  @ 18
 Zigzagoon -> LINOONE  @ 20
 Wurmple -> SILCOON CASCOON  @ 7
 Silcoon -> BEAUTIFLY  @ 10
 Cascoon -> DUSTOX  @ 10
 Lotad -> LOMBRE  @ 14
-Lombre -> LUDICOLO  @ Final Evolution
+Lombre -> LUDICOLO via WATER STONE @ Final Evolution
 Seedot -> NUZLEAF  @ 14
-Nuzleaf -> SHIFTRY  @ Final Evolution
+Nuzleaf -> SHIFTRY via LEAF STONE @ Final Evolution
 Nincada -> NINJASK SHEDINJA  @ 20
 Taillow -> SWELLOW  @ 22
 Shroomish -> BRELOOM  @ 23
@@ -172,63 +172,63 @@ Wailmer -> WAILORD  @ 40
 Skitty -> DELCATTY  @ 25
 Baltoy -> CLAYDOL  @ 36
 Nosepass -> PROBOPASS  @ Final Evolution
-Sableye ->  MEGA SABLEYE  
+Sableye ->  MEGA SABLEYE  via Sablenite 
 Barboach -> WHISCASH  @ 30
 Corphish -> CRAWDAUNT  @ 30
 Feebas -> MILOTIC  @ 0
 Carvanha -> SHARPEDO  @ 30
-Sharpedo ->  MEGA SHARPEDO  
+Sharpedo ->  MEGA SHARPEDO  via Sharpedonite 
 Trapinch -> VIBRAVA  @ 35
 Vibrava -> FLYGON  @ 45
 Makuhita -> HARIYAMA  @ 24
 Electrike -> MANECTRIC  @ 26
-Manectric ->  MEGA MANECTRIC  
+Manectric ->  MEGA MANECTRIC  via Manectite 
 Numel -> CAMERUPT  @ 33
-Camerupt ->  MEGA CAMERUPT  
+Camerupt ->  MEGA CAMERUPT  via Cameruptite 
 Spheal -> SEALEO  @ 32
 Sealeo -> WALREIN  @ 44
 Cacnea -> CACTURNE  @ 32
-Snorunt -> GLALIE FROSLASS  @ 42
-Glalie ->  MEGA GLALIE  
+Snorunt -> GLALIE via FEMALEFROSLASS via DAWN STONE @ 42
+Glalie ->  MEGA GLALIE  via Glalitite 
 Azurill -> MARILL  @ 0
 Spoink -> GRUMPIG  @ 32
-Mawile ->  MEGA MAWILE  
+Mawile ->  MEGA MAWILE  via Mawilite 
 Meditite -> MEDICHAM  @ 37
-Medicham ->  MEGA MEDICHAM  
+Medicham ->  MEGA MEDICHAM  via Medichamite 
 Swablu -> ALTARIA  @ 35
-Altaria ->  MEGA ALTARIA  
+Altaria ->  MEGA ALTARIA  via Altarianite 
 Wynaut -> WOBBUFFET  @ 15
 Duskull -> DUSCLOPS  @ 18
 Dusclops -> DUSKNOIR  @ 36
-Roselia -> ROSERADE  @ Final Evolution
+Roselia -> ROSERADE via SHINY STONE @ Final Evolution
 Slakoth -> VIGOROTH  @ 18
 Vigoroth -> SLAKING  @ 36
 Gulpin -> SWALOT  @ 26
 Whismur -> LOUDRED  @ 20
 Loudred -> EXPLOUD  @ 40
 Clamperl -> HUNTAIL  @ 0
-Absol ->  MEGA ABSOL  
+Absol ->  MEGA ABSOL  via Absolite 
 Shuppet -> BANETTE  @ 37
-Banette ->  MEGA BANETTE  
+Banette ->  MEGA BANETTE  via Banettite 
 Aron -> LAIRON  @ 20
 Lairon -> AGGRON  @ 40
-Aggron ->  MEGA AGGRON  
+Aggron ->  MEGA AGGRON  via Aggronite 
 Lileep -> CRADILY  @ 40
 Anorith -> ARMALDO  @ 40
 Ralts -> KIRLIA  @ 20
 Kirlia -> GARDEVOIR  @ 30
-Gardevoir ->  MEGA GARDEVOIR  
+Gardevoir ->  MEGA GARDEVOIR  via Gardevoirite 
 Bagon -> SHELGON  @ 30
 Shelgon -> SALAMENCE  @ 50
-Salamence ->  MEGA SALAMENCE  
+Salamence ->  MEGA SALAMENCE  via Salamencite 
 Beldum -> METANG  @ 20
 Metang -> METAGROSS  @ 45
-Metagross ->  MEGA METAGROSS  
-Latias ->  MEGA LATIAS  
-Latios ->  MEGA LATIOS  
+Metagross ->  MEGA METAGROSS  via Metagrossite 
+Latias ->  MEGA LATIAS  via Latiasite 
+Latios ->  MEGA LATIOS  via Latiosite 
 Rayquaza ->  MEGA RAYQUAZA  
-Groudon -> PRIMAL GROUDON  @ Final Evolution
-Kyogre -> PRIMAL KYOGRE  @ Final Evolution
+Groudon -> PRIMAL GROUDON via RED ORB @ Final Evolution
+Kyogre -> PRIMAL KYOGRE via BLUE ORB @ Final Evolution
 Turtwig -> GROTLE  @ 18
 Grotle -> TORTERRA  @ 32
 Chimchar -> MONFERNO  @ 14
@@ -253,7 +253,7 @@ Cherubi -> CHERRIM  @ 25
 Shellos -> GASTRODON  @ 30
 Drifloon -> DRIFBLIM  @ 28
 Buneary -> LOPUNNY  @ 0
-Lopunny ->  MEGA LOPUNNY  
+Lopunny ->  MEGA LOPUNNY  via Lopunnite 
 Glameow -> PURUGLY  @ 38
 Stunky -> SKUNTANK  @ 34
 Bronzor -> BRONZONG  @ 35
@@ -262,18 +262,18 @@ Mimejr -> MR MIME  @ Final Evolution
 Happiny -> CHANSEY  @ 0
 Gible -> GABITE  @ 24
 Gabite -> GARCHOMP  @ 48
-Garchomp ->  MEGA GARCHOMP  
+Garchomp ->  MEGA GARCHOMP  via Garchompite 
 Munchlax -> SNORLAX  @ 0
 Riolu -> LUCARIO  @ 0
-Lucario ->  MEGA LUCARIO  
+Lucario ->  MEGA LUCARIO  via Lucarionite 
 Hippopotas -> HIPPOWDON  @ 34
 Skorupi -> DRAPION  @ 40
 Croagunk -> TOXICROAK  @ 25
 Finneon -> LUMINEON  @ 31
 Mantyke -> REMORAID MANTINE  @ Final Evolution
 Snover -> ABOMASNOW  @ 40
-Abomasnow ->  MEGA ABOMASNOW  
-Gallade ->  MEGA GALLADE  
+Abomasnow ->  MEGA ABOMASNOW  via Abomasite 
+Gallade ->  MEGA GALLADE  via Galladite 
 Snivy -> SERVINE  @ 17
 Servine -> SERPERIOR  @ 36
 Tepig -> PIGNITE  @ 17
@@ -284,10 +284,10 @@ Patrat -> WATCHOG  @ 20
 Lillipup -> HERDIER  @ 16
 Herdier -> STOUTLAND  @ 32
 Purrloin -> LIEPARD  @ 20
-Pansage -> SIMISAGE  @ Final Evolution
-Pansear -> SIMISEAR  @ Final Evolution
-Panpour -> SIMIPOUR  @ Final Evolution
-Munna -> MUSHARNA  @ Final Evolution
+Pansage -> SIMISAGE via LEAF STONE @ Final Evolution
+Pansear -> SIMISEAR via FIRE STONE @ Final Evolution
+Panpour -> SIMIPOUR via WATER STONE @ Final Evolution
+Munna -> MUSHARNA via MOON STONE @ Final Evolution
 Pidove -> TRANQUILL  @ 21
 Tranquill -> UNFEZANT  @ 32
 Blitzle -> ZEBSTRIKA  @ 27
@@ -295,7 +295,7 @@ Roggenrola -> BOLDORE  @ 25
 Boldore -> GIGALITH  @ 39
 Woobat -> SWOOBAT  @ 0
 Drilbur -> EXCADRILL  @ 31
-Audino ->  MEGA AUDINO  
+Audino ->  MEGA AUDINO  via Audinite 
 Timburr -> GURDURR  @ 25
 Gurdurr -> CONKELDURR  @ 40
 Tympole -> PALPITOAD  @ 25
@@ -304,12 +304,12 @@ Sewaddle -> SWADLOON  @ 20
 Swadloon -> LEAVANNY  @ 0
 Venipede -> WHIRLIPEDE  @ 22
 Whirlipede -> SCOLIPEDE  @ 30
-Cottonee -> WHIMSICOTT  @ Final Evolution
-Petilil -> LILLIGANT  @ Final Evolution
+Cottonee -> WHIMSICOTT via SUN STONE @ Final Evolution
+Petilil -> LILLIGANT via SUN STONE @ Final Evolution
 Sandile -> KROKOROK  @ 18
 Krokorok -> KROOKODILE  @ 38
 Darumaka -> DARMANITAN  @ 35
-Darmanitan_zen -> DARMANITAN  @ Final Evolution
+Darmanitan_zen -> DARMANITAN via FIRE STONE @ Final Evolution
 Dwebble -> CRUSTLE  @ 34
 Scraggy -> SCRAFTY  @ 39
 Yamask -> COFAGRIGUS  @ 34
@@ -317,7 +317,7 @@ Tirtouga -> CARRACOSTA  @ 37
 Archen -> ARCHEOPS  @ 37
 Trubbish -> GARBODOR  @ 36
 Zorua -> ZOROARK  @ 30
-Minccino -> CINCCINO  @ Final Evolution
+Minccino -> CINCCINO via SHINY STONE @ Final Evolution
 Gothita -> GOTHORITA  @ 32
 Gothorita -> GOTHITELLE  @ 41
 Solosis -> DUOSION  @ 32
@@ -337,7 +337,7 @@ Tynamo -> EELEKTRIK  @ 14
 Eelektrik -> EELEKTROSS  @ 35
 Elgyem -> BEHEEYEM  @ 42
 Litwick -> LAMPENT  @ 41
-Lampent -> CHANDELURE  @ Final Evolution
+Lampent -> CHANDELURE via DUSK STONE @ Final Evolution
 Axew -> FRAXURE  @ 22
 Fraxure -> HAXORUS  @ 45
 Cubchoo -> BEARTIC  @ 22
@@ -363,19 +363,19 @@ Scatterbug -> SPEWPA  @ 9
 Spewpa -> VIVILLON  @ 12
 Litleo -> PYROAR  @ 35
 Flabebe -> FLOETTE  @ 19
-Floette -> FLORGES  @ Final Evolution
+Floette -> FLORGES via SHINY STONE @ Final Evolution
 Skiddo -> GOGOAT  @ 32
 Pancham -> PANGORO  @ 32
 Espurr -> MEOWSTIC  @ 25
 Honedge -> DOUBLADE  @ 19
-Doublade -> AEGISLASH  @ Final Evolution
+Doublade -> AEGISLASH via DUSK STONE @ Final Evolution
 Spritzee -> AROMATISSE  @ 0
 Swirlix -> SLURPUFF  @ 0
 Inkay -> MALAMAR  @ 30
 Binacle -> BARBARACLE  @ 39
 Skrelp -> DRAGALGE  @ 48
 Clauncher -> CLAWITZER  @ 37
-Helioptile -> HELIOLISK  @ Final Evolution
+Helioptile -> HELIOLISK via SUN STONE @ Final Evolution
 Tyrunt -> TYRANTRUM  @ 39
 Amaura -> AURORUS  @ 39
 Goomy -> SLIGGOO  @ 40
@@ -384,7 +384,7 @@ Phantump -> TREVENANT  @ 34
 Pumpkaboo -> GOURGEIST  @ 28
 Bergmite -> AVALUGG  @ 37
 Noibat -> NOIVERN  @ 48
-Diancie ->  MEGA DIANCIE  
+Diancie ->  MEGA DIANCIE  via Diancite 
 Rowlet -> DARTRIX  @ 17
 Dartrix -> DECIDUEYE  @ 34
 Litten -> TORRACAT  @ 17
@@ -417,8 +417,8 @@ Cosmog -> COSMOEM  @ 43
 Cosmoem -> SOLGALEO  @ 53
 Poipole -> NAGANADEL  @ Final Evolution
 Alolan_rattata -> ALOLAN RATICATE  @ 20
-Alolan_sandshrew -> ALOLAN SANDSLASH  @ Final Evolution
-Alolan_vulpix -> ALOLAN NINETALES  @ Final Evolution
+Alolan_sandshrew -> ALOLAN SANDSLASH via ICE STONE @ Final Evolution
+Alolan_vulpix -> ALOLAN NINETALES via ICE STONE @ Final Evolution
 Alolan_diglett -> ALOLAN DUGTRIO  @ 26
 Alolan_meowth -> ALOLAN PERSIAN  @ 28
 Alolan_geodude -> ALOLAN GRAVELER  @ 25
